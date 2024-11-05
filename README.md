@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamara Priyalal</h1>
-<h3 align="center">I am a student studying National IT Diploma</h3>
+<h3 align="center">I studied for a National ICT Diploma and am currently in training at the Mahiyanganaya Electricity Board.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamara202&label=Profile%20views&color=0e75b6&style=flat" alt="chamara202" /> </p>
 
