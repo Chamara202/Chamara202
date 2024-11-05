@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamara202&label=Profile%20views&color=0e75b6&style=flat" alt="chamara202" /> </p>
 
-- 🌱 I’m currently learning **Diploma in Information Technology**
+- 🌱 am currently in training at the Mahiyanganaya Electricity Board
 
 - 📫 How to reach me **0760822431**
 
